@@ -1,4 +1,4 @@
-# CALCULADORA DE IMC - ATIVIDADE MINICAMP XP 
+# CALCULADORA DE IMC 🖩
 
 <img src="./src/imcPage.jpg" alt="exemplo imagem">
 

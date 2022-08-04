@@ -28,6 +28,7 @@ button{
     font-weight: bold;
     cursor: pointer;
     border-radius: 5px;
+    height: 35px;
 }
 @media screen and (max-width: 350px){
     div {
