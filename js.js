@@ -8,7 +8,6 @@ let pegaInputPeso = document.querySelector('#InformeSeuPeso'); // DOM está pega
 //pegaAltura.addEventListener('input', handleButtonClick) //  Escutar o valor inserido e acionar a função
 //pegaInputPeso.addEventListener('input', handleButtonClick) //  Escutar o valor inserido e acionar a função
 
-
 // função teste
 function start() {
     console.log("hellow");
